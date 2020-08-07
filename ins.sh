@@ -22,7 +22,7 @@ echo
 echo "clear" > null.txt
 cat "null.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "banner.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-cat "tload.txt"  >> /data/data/com.termux/files/usr/etc/bash.bashrc
+
 
 echo " "
 echo "                   "Ready to go buddy..... | lolcat

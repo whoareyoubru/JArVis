@@ -1,7 +1,7 @@
-#!data/data/com.termux/files/etc
-#Tool By Noob Hackers 
-#ThAnKS For Supporting 
-################
+
+
+
+
 cyn='\e[0;36m'
 
 lgrn='\e[1;32m'
